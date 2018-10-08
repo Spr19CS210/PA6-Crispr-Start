@@ -14,8 +14,6 @@
 
 > MOVE
 
-left
-left
 > PRINT
 ..........
 b.........
@@ -30,8 +28,6 @@ b.........
 
 > MOVE
 
-down
-up
 > PRINT
 b.........
 ..........
@@ -46,8 +42,6 @@ b.........
 
 > MOVE
 
-right
-right
 > PRINT
 .b........
 ..........
@@ -62,8 +56,6 @@ right
 
 > MOVE
 
-down
-up
 > PRINT
 ..........
 .b........
@@ -78,8 +70,6 @@ up
 
 > MOVE
 
-left
-left
 > PRINT
 ..........
 b.........
@@ -94,8 +84,6 @@ b.........
 
 > MOVE
 
-left
-left
 > PRINT
 ..........
 .........b
