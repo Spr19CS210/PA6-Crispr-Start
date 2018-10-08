@@ -1,8 +1,8 @@
 rows: 10
 cols: 10
 
-CREATE (1,1) lion female false
-CREATE (1,1) bee male true
+CREATE (1,1) lion female left
+CREATE (1,1) bee male left
 EAT
 PRINT
 MOVE
